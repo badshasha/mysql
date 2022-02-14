@@ -1,0 +1,8 @@
+LIKE ('ar%')  : start ar end any thing character length is no matter 
+
+LIKE ('_e') : starting from any one letter and secound letter should ne e 
+
+* 
+
+
+wild card character 

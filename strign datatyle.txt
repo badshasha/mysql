@@ -1,0 +1,8 @@
+character : CHAR 
+		char(5) 5 represent the maximum numner of symbols are allowed to user in wiring   max: 255
+
+	  : varchar
+		varchar(5)  : max 65,535
+
+	  : ENUM
+		Enum('M','F')

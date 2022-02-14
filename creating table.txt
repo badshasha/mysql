@@ -1,0 +1,22 @@
+create table table_name (
+
+	column_1_name datatype constraints ,
+	column_2_name dayatype constraints 
+
+
+);
+
+
+
+create table Cusotmer(
+		
+	id int primary key auto_increment,
+	first_name varchar(20) not null,
+	last_name varchar(20) not null,
+	email_address varchar(20) not null,
+	
+
+);
+
+
+create table if not exists customer()

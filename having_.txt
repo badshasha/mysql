@@ -1,0 +1,19 @@
+haivng using 
+	between groupby and order by 
+
+
+SELECT 
+    first_name, COUNT(first_name) as name_count , hire_date
+FROM
+    employees
+WHERE
+    hire_date >= '1999-01-01'
+GROUP BY first_name
+HAVING COUNT(first_name) < 200
+ORDER BY first_name ASC;
+
+
+working with aggragartion function you should need to user HAVING 
+
+
+you cannot have both non-aggragated and aggregated condition in a same class 

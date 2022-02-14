@@ -1,0 +1,20 @@
+
+
+count()
+
+sum()
+
+min()
+
+max()
+
+avg()
+
+
+
+
+SELECT 
+    count(emp_no)
+FROM
+    employees;
+

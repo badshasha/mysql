@@ -1,0 +1,22 @@
+
+int 
+	tinyint            :-128,127
+	smallint	     32767	
+	mediumint 
+	int 
+	bigint
+
+
+
+
+
+fixed point 
+
+	Decimal(5,3)  10.467
+	Numeric 
+
+
+floating point 
+
+	Float(5,3)
+	Double

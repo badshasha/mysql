@@ -1,0 +1,7 @@
+Date 
+	
+
+Date + time = Datetime 
+
+
+Timestamp

@@ -1,0 +1,15 @@
+
+
+foreign key( child_id ) references parent_table( parenet_table_id ) on delete cascade
+
+
+
+alter table sales 
+	add foreign key ( customer_id ) references customer(id) on delete cascade;
+
+
+drop table 
+
+
+alter table sales
+	drop foreign key sales_ibfk_1;
